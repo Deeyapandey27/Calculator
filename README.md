@@ -9,7 +9,6 @@ A simple calculator GUI made using **C++ and Qt Creator**.
 * Multiplication
 * Division
 * Clear button
-* Decimal calculations
 
 ### Tech Used
 
